@@ -1,6 +1,6 @@
 # Debugging your code in Python - Examples
 
-These examples show how to perform debugging on your python applications. They are part of the medium blog [Debugging your code in Python - pdb vs. rpdb]().
+These examples show how to perform debugging on your python applications. They are part of the medium blog [Debugging your code in Python - pdb vs. rpdb](https://awkwardferny.medium.com/debugging-your-code-in-python-pdb-vs-rpdb-e7bb918a8ac3).
 
 The blog goes uses these examples to explain using the python debugger(pdb) and the 
 remote python debugger(rpdb).
