@@ -72,8 +72,9 @@ $ python rpdb/run.py
 
 **NOTE:** Make sure it python is run while inside the virtual environment.
 
-A popup may come up, make sure to allow the connection:
-![](images/1.png)
+A popup may come up, make sure to allow the connection:  
+
+![](images/1.png)  
 
 then we open a separate terminal to send a request:
 ```
